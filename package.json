@@ -17,6 +17,7 @@
   "author": "Pankaj",
   "license": "ISC",
   "dependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.22.11",
     "bcrypt": "^5.1.0",
     "cloudinary": "^1.37.0",
     "cookie-parser": "^1.4.6",
